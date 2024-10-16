@@ -46,15 +46,11 @@ Nous avons également découvert et appliqué les **principes du RGAA (Référen
 Le projet a également été une opportunité pour travailler en binôme. Nous avons découvert et appliqué des méthodes de :
 
 - **Répartition des tâches** : Chaque membre a pris en charge certaines parties du projet (par exemple, la création des maquettes pour certains écrans, la modélisation du diagramme, l'optimisation de l'accessibilité, etc.).
-- **Suivi de projet et coordination** : Nous avons utilisé des outils de gestion de projet pour suivre l’avancement de chaque tâche et communiquer de façon fluide entre nous.
 - **Organisation des fichiers** dans Figma pour faciliter la collaboration et garantir la lisibilité pour d'éventuels futurs contributeurs.
 
 ### 6. Utilisation de ressources libres de droits
 
 Enfin, nous avons veillé à n'utiliser que des **ressources libres de droits** (images, icônes, typographies) pour garantir la conformité du projet. Cette tâche a impliqué :
-
-- La recherche et la sélection d’**assets compatibles** avec notre charte graphique.
-- La gestion des licences et la vérification de la légalité des ressources utilisées.
 
 Cette démarche a permis d'assurer que tous les contenus sont conformes aux exigences légales.
 
