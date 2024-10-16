@@ -57,3 +57,9 @@ Enfin, nous avons veillé à n'utiliser que des **ressources libres de droits** 
 - La gestion des licences et la vérification de la légalité des ressources utilisées.
 
 Cette démarche a permis d'assurer que tous les contenus sont conformes aux exigences légales.
+
+## Livrables
+
+[Lien Figma](https://www.figma.com/design/vJbbjb1nPZGQkuLGCVSzEz/Untitled?node-id=1-21&t=TbV5NNCbXXMwD7xT-1)\
+[Lien diagramme d'activité UML](https://drive.google.com/file/d/1zJlxtr9gfBniWV_AeeRD9TQb2jkRxkrE/view?usp=sharing)\
+![alt text](image-1.png)
